@@ -1,1 +1,3 @@
-Africa RUles site
+# africarules
+
+Official Website for Africa Rules Movement
